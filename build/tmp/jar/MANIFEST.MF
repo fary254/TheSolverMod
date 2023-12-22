@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: examplemod
+Specification-Vendor: examplemodsareus
+Specification-Version: 1
+Implementation-Title: TheSolverMod
+Implementation-Version: 1.0
+Implementation-Vendor: examplemodsareus
+Implementation-Timestamp: 2023-12-19T09:06:28+0200
+
